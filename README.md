@@ -9,8 +9,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 # 📊 GitHub Stats:
 <div>
-  <img src="https://streak-stats.demolab.com?user=05-Swati-Singh&locale=en&mode=daily&theme=blue_navy&hide_border=true&border_radius=5" height="180" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=05-Swati-Singh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=blue_navy&hide_border=true" height="160" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=05-Swati-Singh&locale=en&mode=daily&theme=blue_navy&hide_border=false&border_radius=5" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=05-Swati-Singh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=blue_navy&hide_border=false" height="160" alt="languages graph"  />
 </div>
 
 
