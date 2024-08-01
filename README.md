@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👩🏻‍💼 I'm an aspiring Data/Business Analyst<br>🔭 I'm currently looking for Internship's<br>🌱 I'm currently learning Machine Learning Algorithms<br>☁️ Ask me about any question's related to Analytic's<br>⚡Fun face : Blind without my 👓
+### 👩🏻‍💼 I'm an aspiring Data/Business Analyst<br>🔭 I'm currently looking for Internship's<br>🌱 I'm currently learning Machine Learning Algorithms<br>☁️ Ask me about any question's related to Analytic's<br>⚡Fun face : Blind without my 👓 specs
 
 
 ## 🌐 Socials:
